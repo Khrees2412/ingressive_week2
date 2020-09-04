@@ -146,16 +146,15 @@ h2{
         border-bottom: 1px solid black;
         position: absolute;
         padding: 3px;
-        top: 345px;
+        top: 380px;
         right: 18px;
     
     }
     .span3{
         border-left: 1px solid black;
         border-bottom: 1px solid black;
-        float: right;
         position: absolute;
-        top: 524px;
+        top: 595px;
         right: 18px;
     }
 }
